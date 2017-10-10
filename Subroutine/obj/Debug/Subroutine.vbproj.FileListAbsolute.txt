@@ -1,0 +1,11 @@
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.vbprojResolveAssemblyReference.cache
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.Form1.resources
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.Resources.resources
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.vbproj.GenerateResource.Cache
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\bin\Debug\Subroutine.exe.config
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\bin\Debug\Subroutine.exe
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\bin\Debug\Subroutine.pdb
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\bin\Debug\Subroutine.xml
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.exe
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.xml
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\Subroutine\Subroutine\obj\Debug\Subroutine.pdb
